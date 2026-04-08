@@ -14,3 +14,8 @@
 
 [claude code 技巧]:(https://claude.ai/.../63f8bd66-e0de-4692-865f-e4b409e211c9)
 
+------
+
+学习webgpu
+[谷歌的webgpu教学](https://codelabs.developers.google.com/your-first-webgpu-app)
+
