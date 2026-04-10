@@ -19,3 +19,14 @@
 学习webgpu
 [谷歌的webgpu教学](https://codelabs.developers.google.com/your-first-webgpu-app)
 
+
+----
+[认为编写代码的速度是你的问题](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)
+
+[未来的城市街道像什么](https://news.ycombinator.com/item?id=47643388)
+
+[Claude code 动手实践](https://claude.nagdy.me/)
+
+[详解claude code 的工作原理](https://ccunpacked.dev/)
+
+[写作的意义在于理解](https://alexhwoods.com/dont-let-ai-write-for-you/)
