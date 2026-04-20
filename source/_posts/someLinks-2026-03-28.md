@@ -30,3 +30,7 @@
 [详解claude code 的工作原理](https://ccunpacked.dev/)
 
 [写作的意义在于理解](https://alexhwoods.com/dont-let-ai-write-for-you/)
+
+---
+
+[东方财富 skill](https://github.com/meission/eastmoney)
