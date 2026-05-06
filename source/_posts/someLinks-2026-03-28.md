@@ -1,3 +1,8 @@
+---
+title: Some Links
+date: 2026-03-28 12:00:00
+---
+
 [罗马尼亚专门做mac os 应用开发的人](https://notes.alinpanaitiu.com/Costs-of-running-a-macOS-app-studio-business)
 
 [不要太看中ai大模型的订阅费](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions)
