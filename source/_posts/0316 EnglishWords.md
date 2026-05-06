@@ -1,3 +1,8 @@
+---
+title: 0316 English Words
+date: 2026-03-16 12:00:00
+---
+
 Front	Back
 candid /ˈkæn.dɪd/	【形】坦率的，直言不讳的  
 记忆技巧：*candid camera* 捕捉真实瞬间 → “真实、坦率”。  
